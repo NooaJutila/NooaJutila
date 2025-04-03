@@ -3,7 +3,7 @@
 - 💾 I’m currently learning IT engineering
 - 📫 How to reach me: email nooa.jutila@tuni.fi
 
-![Heart](https://github.com/user-attachments/assets/ed2e2522-5c4d-40fe-9854-add6a7948f5e)
+![ic63_500px](https://github.com/user-attachments/assets/55df2b18-e417-4cc4-acc1-dab74c9d3435)
 
 <!---
 NooaJutila/NooaJutila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
